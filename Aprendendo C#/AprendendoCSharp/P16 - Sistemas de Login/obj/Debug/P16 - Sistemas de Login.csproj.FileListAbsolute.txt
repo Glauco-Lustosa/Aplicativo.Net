@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\bin\Debug\P16 - Sistemas de Login.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\bin\Debug\P16 - Sistemas de Login.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\bin\Debug\P16 - Sistemas de Login.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\obj\Debug\P16 - Sistemas de Login.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\obj\Debug\P16 - Sistemas de Login.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\obj\Debug\P16 - Sistemas de Login.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P16 - Sistemas de Login\obj\Debug\P16 - Sistemas de Login.csprojAssemblyReference.cache

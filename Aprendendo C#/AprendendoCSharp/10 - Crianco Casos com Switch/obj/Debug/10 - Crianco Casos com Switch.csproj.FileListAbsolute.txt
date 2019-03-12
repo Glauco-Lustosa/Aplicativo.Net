@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\bin\Debug\10 - Crianco Casos com Switch.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\bin\Debug\10 - Crianco Casos com Switch.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\bin\Debug\10 - Crianco Casos com Switch.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\obj\Debug\10 - Crianco Casos com Switch.csprojAssemblyReference.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\obj\Debug\10 - Crianco Casos com Switch.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\obj\Debug\10 - Crianco Casos com Switch.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\10 - Crianco Casos com Switch\obj\Debug\10 - Crianco Casos com Switch.pdb

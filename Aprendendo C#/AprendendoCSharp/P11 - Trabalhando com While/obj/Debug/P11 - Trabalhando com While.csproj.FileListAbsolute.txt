@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\bin\Debug\P11 - Trabalhando com While.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\bin\Debug\P11 - Trabalhando com While.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\bin\Debug\P11 - Trabalhando com While.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\obj\Debug\P11 - Trabalhando com While.csprojAssemblyReference.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\obj\Debug\P11 - Trabalhando com While.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\obj\Debug\P11 - Trabalhando com While.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P11 - Trabalhando com While\obj\Debug\P11 - Trabalhando com While.pdb

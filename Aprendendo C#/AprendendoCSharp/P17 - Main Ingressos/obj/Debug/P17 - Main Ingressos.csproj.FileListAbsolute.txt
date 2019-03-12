@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\bin\Debug\P17 - Main Ingressos.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\bin\Debug\P17 - Main Ingressos.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\bin\Debug\P17 - Main Ingressos.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\obj\Debug\P17 - Main Ingressos.csprojAssemblyReference.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\obj\Debug\P17 - Main Ingressos.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\obj\Debug\P17 - Main Ingressos.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P17 - Main Ingressos\obj\Debug\P17 - Main Ingressos.pdb

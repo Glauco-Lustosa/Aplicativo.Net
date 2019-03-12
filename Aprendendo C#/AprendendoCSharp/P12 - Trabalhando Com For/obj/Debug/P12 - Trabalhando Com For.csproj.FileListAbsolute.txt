@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\bin\Debug\P12 - Trabalhando Com For.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\bin\Debug\P12 - Trabalhando Com For.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\bin\Debug\P12 - Trabalhando Com For.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\obj\Debug\P12 - Trabalhando Com For.csprojAssemblyReference.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\obj\Debug\P12 - Trabalhando Com For.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\obj\Debug\P12 - Trabalhando Com For.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P12 - Trabalhando Com For\obj\Debug\P12 - Trabalhando Com For.pdb

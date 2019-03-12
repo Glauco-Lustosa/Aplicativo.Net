@@ -1,0 +1,7 @@
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\bin\Debug\P15 - Treinando Visibilidade.exe.config
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\bin\Debug\P15 - Treinando Visibilidade.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\bin\Debug\P15 - Treinando Visibilidade.pdb
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\obj\Debug\P15 - Treinando Visibilidade.csprojAssemblyReference.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\obj\Debug\P15 - Treinando Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\obj\Debug\P15 - Treinando Visibilidade.exe
+C:\Users\glauc\Documents\Aprendendo C#\AprendendoCSharp\P15 - Treinando Visibilidade\obj\Debug\P15 - Treinando Visibilidade.pdb
